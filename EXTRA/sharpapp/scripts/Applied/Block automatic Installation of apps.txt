@@ -1,0 +1,412 @@
+2021/06/18 02:02:56
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEverEnabled : 0
+PSPath                      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion\ContentDeliveryManager
+PSParentPath                : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion
+PSChildName                 : ContentDeliveryManager
+PSDrive                     : HKCU
+PSProvider                  : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338389Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:01 AM
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEverEnabled : 0
+PSPath                      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion\ContentDeliveryManager
+PSParentPath                : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion
+PSChildName                 : ContentDeliveryManager
+PSDrive                     : HKCU
+PSProvider                  : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338389Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:40
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEverEnabled : 0
+PSPath                      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion\ContentDeliveryManager
+PSParentPath                : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion
+PSChildName                 : ContentDeliveryManager
+PSDrive                     : HKCU
+PSProvider                  : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338389Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:29:53
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEverEnabled : 0
+PSPath                      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion\ContentDeliveryManager
+PSParentPath                : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVe
+                              rsion
+PSChildName                 : ContentDeliveryManager
+PSDrive                     : HKCU
+PSProvider                  : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338389Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+

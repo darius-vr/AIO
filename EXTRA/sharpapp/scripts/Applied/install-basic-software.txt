@@ -1,0 +1,31 @@
+2021/06/17 15:53:02Setting up Chocolatey software package manager
+
+Name                     Version          DynamicOptions                                                                
+----                     -------          --------------                                                                
+Chocolatey               2.8.5.130        SkipDependencies, ContinueOnFailure, ExcludeVersion, ForceX86, PackageSaveM...
+Setting up Full Chocolatey Install
+Creating daily task to automatically upgrade Chocolatey packages
+
+InvocationInfo         : Microsoft.PowerShell.ScheduledJob.ScheduledJobInvocationInfo
+Definition             : System.Management.Automation.JobDefinition
+Options                : Microsoft.PowerShell.ScheduledJob.ScheduledJobOptions
+Credential             : 
+JobTriggers            : {1}
+Id                     : 1
+GlobalId               : f145d10c-7f5b-45b6-ba02-318ec11b337a
+Name                   : Chocolatey Daily Upgrade
+Command                : choco upgrade all -y
+ExecutionHistoryLength : 32
+Enabled                : True
+PSExecutionPath        : powershell.exe
+PSExecutionArgs        : -NoLogo -NonInteractive -WindowStyle Hidden -Command "Import-Module PSScheduledJob; $jobDef = 
+                         [Microsoft.PowerShell.ScheduledJob.ScheduledJobDefinition]::LoadFromStore('Chocolatey Daily 
+                         Upgrade', 'C:\Users\TEST DEV\AppData\Local\Microsoft\Windows\PowerShell\ScheduledJobs'); 
+                         $jobDef.Run()"
+
+Installing Packages
+Installing Sysinternals Utilities to C:\Sysinternals
+Removing zipfile
+
+
+

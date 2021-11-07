@@ -1,0 +1,84 @@
+2021/06/17 15:35:44
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:48:42
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:02:01
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:15:36 AM
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:06
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:29:19
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+06 Oct 2021 23:15:42
+
+DisableAntiSpyware : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName        : Windows Defender
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+

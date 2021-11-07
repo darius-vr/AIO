@@ -1,0 +1,844 @@
+2021/06/17 16:03:54
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userAccountInformation
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userAccountInformation
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appointments
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appointments
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCallHistory
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCallHistory
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCall
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCall
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\contacts
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : contacts
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appDiagnostics
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appDiagnostics
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\documentsLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : documentsLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\email
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : email
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\broadFileSystemAccess
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : broadFileSystemAccess
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\chat
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : chat
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\microphone
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : microphone
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\activity
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : activity
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userNotificationListener
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userNotificationListener
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetooth
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetooth
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetoothSync
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetoothSync
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\picturesLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : picturesLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\radios
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : radios
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userDataTasks
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userDataTasks
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\videosLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : videosLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\webcam
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : webcam
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+GlobalUserDisabled : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Bac
+                     kgroundAccessApplications
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+PSChildName        : BackgroundAccessApplications
+PSDrive            : HKCU
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+Start_TrackProgs : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer\Advanced
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer
+PSChildName      : Advanced
+PSDrive          : HKCU
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:07:04
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userAccountInformation
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userAccountInformation
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appointments
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appointments
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCallHistory
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCallHistory
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCall
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCall
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\contacts
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : contacts
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appDiagnostics
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appDiagnostics
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\documentsLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : documentsLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\email
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : email
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\broadFileSystemAccess
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : broadFileSystemAccess
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\chat
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : chat
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\microphone
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : microphone
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\activity
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : activity
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userNotificationListener
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userNotificationListener
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetooth
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetooth
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetoothSync
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetoothSync
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\picturesLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : picturesLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\radios
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : radios
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userDataTasks
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userDataTasks
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\videosLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : videosLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\webcam
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : webcam
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+GlobalUserDisabled : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Bac
+                     kgroundAccessApplications
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+PSChildName        : BackgroundAccessApplications
+PSDrive            : HKCU
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+Start_TrackProgs : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer\Advanced
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer
+PSChildName      : Advanced
+PSDrive          : HKCU
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:38:03
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userAccountInformation
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userAccountInformation
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appointments
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appointments
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCallHistory
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCallHistory
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCall
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCall
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\contacts
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : contacts
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appDiagnostics
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appDiagnostics
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\documentsLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : documentsLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\email
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : email
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\broadFileSystemAccess
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : broadFileSystemAccess
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\chat
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : chat
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\microphone
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : microphone
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\activity
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : activity
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userNotificationListener
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userNotificationListener
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetooth
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetooth
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetoothSync
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetoothSync
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\picturesLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : picturesLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\radios
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : radios
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userDataTasks
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userDataTasks
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\videosLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : videosLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\webcam
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : webcam
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+GlobalUserDisabled : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Bac
+                     kgroundAccessApplications
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+PSChildName        : BackgroundAccessApplications
+PSDrive            : HKCU
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+Start_TrackProgs : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer\Advanced
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer
+PSChildName      : Advanced
+PSDrive          : HKCU
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:51:06
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userAccountInformation
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userAccountInformation
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appointments
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appointments
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCallHistory
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCallHistory
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\phoneCall
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : phoneCall
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\contacts
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : contacts
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\appDiagnostics
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : appDiagnostics
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\documentsLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : documentsLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\email
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : email
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\broadFileSystemAccess
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : broadFileSystemAccess
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\chat
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : chat
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\microphone
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : microphone
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\activity
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : activity
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userNotificationListener
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userNotificationListener
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetooth
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetooth
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\bluetoothSync
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : bluetoothSync
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\picturesLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : picturesLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\radios
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : radios
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\userDataTasks
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : userDataTasks
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\videosLibrary
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : videosLibrary
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\webcam
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : webcam
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+GlobalUserDisabled : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Bac
+                     kgroundAccessApplications
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+PSChildName        : BackgroundAccessApplications
+PSDrive            : HKCU
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+Start_TrackProgs : 0
+PSPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer\Advanced
+PSParentPath     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explo
+                   rer
+PSChildName      : Advanced
+PSDrive          : HKCU
+PSProvider       : Microsoft.PowerShell.Core\Registry
+
+
+
+

@@ -1,0 +1,84 @@
+2021/06/17 15:36:19
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:49:11
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:02:56
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:02 AM
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:42
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:29:54
+
+Debugger     : %windir%\System32\taskkill.exe
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options\CompatTelRunner.exe
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows 
+               NT\CurrentVersion\Image File Execution Options
+PSChildName  : CompatTelRunner.exe
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+

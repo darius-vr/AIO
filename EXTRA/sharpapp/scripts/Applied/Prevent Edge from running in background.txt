@@ -1,0 +1,84 @@
+2021/06/17 15:35:52
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:48:48
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:02:26
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:15:59 AM
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:16
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:29:38
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+06 Oct 2021 23:15:46
+
+BackgroundModeEnabled : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Edge
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName           : Edge
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+

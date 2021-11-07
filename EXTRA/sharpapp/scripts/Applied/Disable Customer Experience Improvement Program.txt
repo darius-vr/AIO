@@ -1,0 +1,48 @@
+2021/06/17 15:36:21
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+
+
+
+2021/06/17 15:49:34
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+
+
+
+2021/06/18 02:03:05
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+
+
+
+6/18/2021 2:17:19 AM
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+
+
+
+2021/06/18 12:34:48
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+
+
+
+2021/08/08 10:31:03
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Customer Experience Impr... Consolidator                      Disabled  
+\Microsoft\Windows\Customer Experience Impr... UsbCeip                           Disabled  
+
+
+

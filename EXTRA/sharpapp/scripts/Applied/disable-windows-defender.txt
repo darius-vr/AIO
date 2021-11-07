@@ -1,0 +1,76 @@
+2021/06/17 15:50:52Elevating priviledges for this process
+Trying to disable scheduled task Windows Defender Cache Maintenance
+
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Windows Defender\           Windows Defender Cache Mainten... Disabled  
+Trying to disable scheduled task Windows Defender Cleanup
+\Microsoft\Windows\Windows Defender\           Windows Defender Cleanup          Disabled  
+Trying to disable scheduled task Windows Defender Scheduled Scan
+\Microsoft\Windows\Windows Defender\           Windows Defender Scheduled Scan   Disabled  
+Trying to disable scheduled task Windows Defender Verification
+\Microsoft\Windows\Windows Defender\           Windows Defender Verification     Disabled  
+Disabling Windows Defender via Group Policies
+Disabling Windows Defender Services
+Removing Windows Defender context menu item
+Removing Windows Defender GUI / tray from autorun
+
+
+
+2021/06/18 02:04:05Elevating priviledges for this process
+Trying to disable scheduled task Windows Defender Cache Maintenance
+
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Windows Defender\           Windows Defender Cache Mainten... Disabled  
+Trying to disable scheduled task Windows Defender Cleanup
+\Microsoft\Windows\Windows Defender\           Windows Defender Cleanup          Disabled  
+Trying to disable scheduled task Windows Defender Scheduled Scan
+\Microsoft\Windows\Windows Defender\           Windows Defender Scheduled Scan   Disabled  
+Trying to disable scheduled task Windows Defender Verification
+\Microsoft\Windows\Windows Defender\           Windows Defender Verification     Disabled  
+Disabling Windows Defender via Group Policies
+Disabling Windows Defender Services
+Removing Windows Defender context menu item
+Removing Windows Defender GUI / tray from autorun
+
+
+
+2021/06/18 12:35:43Elevating priviledges for this process
+Trying to disable scheduled task Windows Defender Cache Maintenance
+
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Windows Defender\           Windows Defender Cache Mainten... Disabled  
+Trying to disable scheduled task Windows Defender Cleanup
+\Microsoft\Windows\Windows Defender\           Windows Defender Cleanup          Disabled  
+Trying to disable scheduled task Windows Defender Scheduled Scan
+\Microsoft\Windows\Windows Defender\           Windows Defender Scheduled Scan   Disabled  
+Trying to disable scheduled task Windows Defender Verification
+\Microsoft\Windows\Windows Defender\           Windows Defender Verification     Disabled  
+Disabling Windows Defender via Group Policies
+Disabling Windows Defender Services
+Removing Windows Defender context menu item
+Removing Windows Defender GUI / tray from autorun
+
+
+
+2021/08/08 10:33:52Elevating priviledges for this process
+Trying to disable scheduled task Windows Defender Cache Maintenance
+
+TaskPath                                       TaskName                          State     
+--------                                       --------                          -----     
+\Microsoft\Windows\Windows Defender\           Windows Defender Cache Mainten... Disabled  
+Trying to disable scheduled task Windows Defender Cleanup
+\Microsoft\Windows\Windows Defender\           Windows Defender Cleanup          Disabled  
+Trying to disable scheduled task Windows Defender Scheduled Scan
+\Microsoft\Windows\Windows Defender\           Windows Defender Scheduled Scan   Disabled  
+Trying to disable scheduled task Windows Defender Verification
+\Microsoft\Windows\Windows Defender\           Windows Defender Verification     Disabled  
+Disabling Windows Defender via Group Policies
+Disabling Windows Defender Services
+Removing Windows Defender context menu item
+Removing Windows Defender GUI / tray from autorun
+
+
+

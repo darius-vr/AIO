@@ -1,0 +1,84 @@
+2021/06/17 15:36:04
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:36:22
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:49:38
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:16
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:22 AM
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:49
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:07
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+

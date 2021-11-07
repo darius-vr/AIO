@@ -1,0 +1,604 @@
+2021/06/17 16:03:47Elevating privileges for this process
+Uninstalling default apps
+Trying to remove Microsoft.549981C3F5F10
+Trying to remove Microsoft.3DBuilder
+Trying to remove Microsoft.Appconnector
+Trying to remove Microsoft.BingFinance
+Trying to remove Microsoft.BingNews
+Trying to remove Microsoft.BingSports
+Trying to remove Microsoft.BingTranslator
+Trying to remove Microsoft.BingWeather
+Trying to remove Microsoft.GamingServices
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.MicrosoftOfficeHub
+Trying to remove Microsoft.MicrosoftPowerBIForWindows
+Trying to remove Microsoft.MicrosoftSolitaireCollection
+Trying to remove Microsoft.MinecraftUWP
+Trying to remove Microsoft.NetworkSpeedTest
+Trying to remove Microsoft.Office.OneNote
+Trying to remove Microsoft.People
+Trying to remove Microsoft.Print3D
+Trying to remove Microsoft.SkypeApp
+Trying to remove Microsoft.Wallet
+Trying to remove Microsoft.WindowsAlarms
+Trying to remove Microsoft.WindowsCamera
+Trying to remove microsoft.windowscommunicationsapps
+Trying to remove Microsoft.WindowsMaps
+Trying to remove Microsoft.WindowsPhone
+Trying to remove Microsoft.WindowsSoundRecorder
+Trying to remove Microsoft.Xbox.TCUI
+Trying to remove Microsoft.XboxApp
+Trying to remove Microsoft.XboxGameOverlay
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.XboxSpeechToTextOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove Microsoft.ZuneMusic
+Trying to remove Microsoft.ZuneVideo
+Trying to remove Microsoft.CommsPhone
+Trying to remove Microsoft.ConnectivityStore
+Trying to remove Microsoft.GetHelp
+Trying to remove Microsoft.Getstarted
+Trying to remove Microsoft.Messaging
+Trying to remove Microsoft.Office.Sway
+Trying to remove Microsoft.OneConnect
+Trying to remove Microsoft.WindowsFeedbackHub
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.BingFoodAndDrink
+Trying to remove Microsoft.BingHealthAndFitness
+Trying to remove Microsoft.BingTravel
+Trying to remove Microsoft.WindowsReadingList
+Trying to remove Microsoft.MixedReality.Portal
+Trying to remove Microsoft.ScreenSketch
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove 2FE3CB00.PicsArt-PhotoStudio
+Trying to remove 46928bounde.EclipseManager
+Trying to remove 4DF9E0F8.Netflix
+Trying to remove 613EBCEA.PolarrPhotoEditorAcademicEdition
+Trying to remove 6Wunderkinder.Wunderlist
+Trying to remove 7EE7776C.LinkedInforWindows
+Trying to remove 89006A2E.AutodeskSketchBook
+Trying to remove 9E2F88E3.Twitter
+Trying to remove A278AB0D.DisneyMagicKingdoms
+Trying to remove A278AB0D.MarchofEmpires
+Trying to remove ActiproSoftwareLLC.562882FEEB491
+Trying to remove CAF9E577.Plex
+Trying to remove ClearChannelRadioDigital.iHeartRadio
+Trying to remove D52A8D61.FarmVille2CountryEscape
+Trying to remove D5EA27B7.Duolingo-LearnLanguagesforFree
+Trying to remove DB6EA5DB.CyberLinkMediaSuiteEssentials
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove Drawboard.DrawboardPDF
+Trying to remove Facebook.Facebook
+Trying to remove Fitbit.FitbitCoach
+Trying to remove Flipboard.Flipboard
+Trying to remove GAMELOFTSA.Asphalt8Airborne
+Trying to remove KeeperSecurityInc.Keeper
+Trying to remove NORDCURRENT.COOKINGFEVER
+Trying to remove PandoraMediaInc.29680B314EFC2
+Trying to remove Playtika.CaesarsSlotsFreeCasino
+Trying to remove ShazamEntertainmentLtd.Shazam
+Trying to remove SlingTVLLC.SlingTV
+Trying to remove SpotifyAB.SpotifyMusic
+Trying to remove ThumbmunkeysLtd.PhototasticCollage
+Trying to remove TuneIn.TuneInRadio
+Trying to remove WinZipComputing.WinZipUniversal
+Trying to remove XINGAG.XING
+Trying to remove flaregamesGmbH.RoyalRevolt2
+Trying to remove king.com.*
+Trying to remove king.com.BubbleWitch3Saga
+Trying to remove king.com.CandyCrushSaga
+Trying to remove king.com.CandyCrushSodaSaga
+Trying to remove Microsoft.Advertising.Xaml
+
+2021/06/18 02:06:27Elevating privileges for this process
+Uninstalling default apps
+Trying to remove Microsoft.549981C3F5F10
+
+
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.3DBuilder
+Trying to remove Microsoft.Appconnector
+Trying to remove Microsoft.BingFinance
+Trying to remove Microsoft.BingNews
+Trying to remove Microsoft.BingSports
+Trying to remove Microsoft.BingTranslator
+Trying to remove Microsoft.BingWeather
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.GamingServices
+Trying to remove Microsoft.Microsoft3DViewer
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MicrosoftOfficeHub
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MicrosoftPowerBIForWindows
+Trying to remove Microsoft.MicrosoftSolitaireCollection
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MinecraftUWP
+Trying to remove Microsoft.NetworkSpeedTest
+Trying to remove Microsoft.Office.OneNote
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.People
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Print3D
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.SkypeApp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Wallet
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsAlarms
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsCamera
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove microsoft.windowscommunicationsapps
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsMaps
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsPhone
+Trying to remove Microsoft.WindowsSoundRecorder
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Xbox.TCUI
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxApp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGameOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGamingOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxSpeechToTextOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.YourPhone
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ZuneMusic
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ZuneVideo
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.CommsPhone
+Trying to remove Microsoft.ConnectivityStore
+Trying to remove Microsoft.GetHelp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Getstarted
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Messaging
+Trying to remove Microsoft.Office.Sway
+Trying to remove Microsoft.OneConnect
+Trying to remove Microsoft.WindowsFeedbackHub
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.BingFoodAndDrink
+Trying to remove Microsoft.BingHealthAndFitness
+Trying to remove Microsoft.BingTravel
+Trying to remove Microsoft.WindowsReadingList
+Trying to remove Microsoft.MixedReality.Portal
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ScreenSketch
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove 2FE3CB00.PicsArt-PhotoStudio
+Trying to remove 46928bounde.EclipseManager
+Trying to remove 4DF9E0F8.Netflix
+Trying to remove 613EBCEA.PolarrPhotoEditorAcademicEdition
+Trying to remove 6Wunderkinder.Wunderlist
+Trying to remove 7EE7776C.LinkedInforWindows
+Trying to remove 89006A2E.AutodeskSketchBook
+Trying to remove 9E2F88E3.Twitter
+Trying to remove A278AB0D.DisneyMagicKingdoms
+Trying to remove A278AB0D.MarchofEmpires
+Trying to remove ActiproSoftwareLLC.562882FEEB491
+Trying to remove CAF9E577.Plex
+Trying to remove ClearChannelRadioDigital.iHeartRadio
+Trying to remove D52A8D61.FarmVille2CountryEscape
+Trying to remove D5EA27B7.Duolingo-LearnLanguagesforFree
+Trying to remove DB6EA5DB.CyberLinkMediaSuiteEssentials
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove Drawboard.DrawboardPDF
+Trying to remove Facebook.Facebook
+Trying to remove Fitbit.FitbitCoach
+Trying to remove Flipboard.Flipboard
+Trying to remove GAMELOFTSA.Asphalt8Airborne
+Trying to remove KeeperSecurityInc.Keeper
+Trying to remove NORDCURRENT.COOKINGFEVER
+Trying to remove PandoraMediaInc.29680B314EFC2
+Trying to remove Playtika.CaesarsSlotsFreeCasino
+Trying to remove ShazamEntertainmentLtd.Shazam
+Trying to remove SlingTVLLC.SlingTV
+Trying to remove SpotifyAB.SpotifyMusic
+Trying to remove ThumbmunkeysLtd.PhototasticCollage
+Trying to remove TuneIn.TuneInRadio
+Trying to remove WinZipComputing.WinZipUniversal
+Trying to remove XINGAG.XING
+Trying to remove flaregamesGmbH.RoyalRevolt2
+Trying to remove king.com.*
+Trying to remove king.com.BubbleWitch3Saga
+Trying to remove king.com.CandyCrushSaga
+Trying to remove king.com.CandyCrushSodaSaga
+Trying to remove Microsoft.Advertising.Xaml
+
+
+
+2021/06/18 12:37:38Elevating privileges for this process
+Uninstalling default apps
+Trying to remove Microsoft.549981C3F5F10
+Trying to remove Microsoft.3DBuilder
+Trying to remove Microsoft.Appconnector
+Trying to remove Microsoft.BingFinance
+Trying to remove Microsoft.BingNews
+Trying to remove Microsoft.BingSports
+Trying to remove Microsoft.BingTranslator
+Trying to remove Microsoft.BingWeather
+Trying to remove Microsoft.GamingServices
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.MicrosoftOfficeHub
+Trying to remove Microsoft.MicrosoftPowerBIForWindows
+Trying to remove Microsoft.MicrosoftSolitaireCollection
+Trying to remove Microsoft.MinecraftUWP
+Trying to remove Microsoft.NetworkSpeedTest
+Trying to remove Microsoft.Office.OneNote
+Trying to remove Microsoft.People
+Trying to remove Microsoft.Print3D
+Trying to remove Microsoft.SkypeApp
+Trying to remove Microsoft.Wallet
+Trying to remove Microsoft.WindowsAlarms
+Trying to remove Microsoft.WindowsCamera
+Trying to remove microsoft.windowscommunicationsapps
+Trying to remove Microsoft.WindowsMaps
+Trying to remove Microsoft.WindowsPhone
+Trying to remove Microsoft.WindowsSoundRecorder
+Trying to remove Microsoft.Xbox.TCUI
+Trying to remove Microsoft.XboxApp
+Trying to remove Microsoft.XboxGameOverlay
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.XboxSpeechToTextOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove Microsoft.ZuneMusic
+Trying to remove Microsoft.ZuneVideo
+Trying to remove Microsoft.CommsPhone
+Trying to remove Microsoft.ConnectivityStore
+Trying to remove Microsoft.GetHelp
+Trying to remove Microsoft.Getstarted
+Trying to remove Microsoft.Messaging
+Trying to remove Microsoft.Office.Sway
+Trying to remove Microsoft.OneConnect
+Trying to remove Microsoft.WindowsFeedbackHub
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.BingFoodAndDrink
+Trying to remove Microsoft.BingHealthAndFitness
+Trying to remove Microsoft.BingTravel
+Trying to remove Microsoft.WindowsReadingList
+Trying to remove Microsoft.MixedReality.Portal
+Trying to remove Microsoft.ScreenSketch
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove 2FE3CB00.PicsArt-PhotoStudio
+Trying to remove 46928bounde.EclipseManager
+Trying to remove 4DF9E0F8.Netflix
+Trying to remove 613EBCEA.PolarrPhotoEditorAcademicEdition
+Trying to remove 6Wunderkinder.Wunderlist
+Trying to remove 7EE7776C.LinkedInforWindows
+Trying to remove 89006A2E.AutodeskSketchBook
+Trying to remove 9E2F88E3.Twitter
+Trying to remove A278AB0D.DisneyMagicKingdoms
+Trying to remove A278AB0D.MarchofEmpires
+Trying to remove ActiproSoftwareLLC.562882FEEB491
+Trying to remove CAF9E577.Plex
+Trying to remove ClearChannelRadioDigital.iHeartRadio
+Trying to remove D52A8D61.FarmVille2CountryEscape
+Trying to remove D5EA27B7.Duolingo-LearnLanguagesforFree
+Trying to remove DB6EA5DB.CyberLinkMediaSuiteEssentials
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove Drawboard.DrawboardPDF
+Trying to remove Facebook.Facebook
+Trying to remove Fitbit.FitbitCoach
+Trying to remove Flipboard.Flipboard
+Trying to remove GAMELOFTSA.Asphalt8Airborne
+Trying to remove KeeperSecurityInc.Keeper
+Trying to remove NORDCURRENT.COOKINGFEVER
+Trying to remove PandoraMediaInc.29680B314EFC2
+Trying to remove Playtika.CaesarsSlotsFreeCasino
+Trying to remove ShazamEntertainmentLtd.Shazam
+Trying to remove SlingTVLLC.SlingTV
+Trying to remove SpotifyAB.SpotifyMusic
+Trying to remove ThumbmunkeysLtd.PhototasticCollage
+Trying to remove TuneIn.TuneInRadio
+Trying to remove WinZipComputing.WinZipUniversal
+Trying to remove XINGAG.XING
+Trying to remove flaregamesGmbH.RoyalRevolt2
+Trying to remove king.com.*
+Trying to remove king.com.BubbleWitch3Saga
+Trying to remove king.com.CandyCrushSaga
+Trying to remove king.com.CandyCrushSodaSaga
+Trying to remove Microsoft.Advertising.Xaml
+
+2021/08/08 10:50:19Elevating privileges for this process
+Uninstalling default apps
+Trying to remove Microsoft.549981C3F5F10
+
+
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.3DBuilder
+Trying to remove Microsoft.Appconnector
+Trying to remove Microsoft.BingFinance
+Trying to remove Microsoft.BingNews
+Trying to remove Microsoft.BingSports
+Trying to remove Microsoft.BingTranslator
+Trying to remove Microsoft.BingWeather
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.GamingServices
+Trying to remove Microsoft.Microsoft3DViewer
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MicrosoftOfficeHub
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MicrosoftPowerBIForWindows
+Trying to remove Microsoft.MicrosoftSolitaireCollection
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.MinecraftUWP
+Trying to remove Microsoft.NetworkSpeedTest
+Trying to remove Microsoft.Office.OneNote
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.People
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Print3D
+Trying to remove Microsoft.SkypeApp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Wallet
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsAlarms
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsCamera
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove microsoft.windowscommunicationsapps
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsMaps
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.WindowsPhone
+Trying to remove Microsoft.WindowsSoundRecorder
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Xbox.TCUI
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxApp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGameOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGamingOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxSpeechToTextOverlay
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.YourPhone
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ZuneMusic
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ZuneVideo
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.CommsPhone
+Trying to remove Microsoft.ConnectivityStore
+Trying to remove Microsoft.GetHelp
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Getstarted
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Messaging
+Trying to remove Microsoft.Office.Sway
+Trying to remove Microsoft.OneConnect
+Trying to remove Microsoft.WindowsFeedbackHub
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.Microsoft3DViewer
+Trying to remove Microsoft.BingFoodAndDrink
+Trying to remove Microsoft.BingHealthAndFitness
+Trying to remove Microsoft.BingTravel
+Trying to remove Microsoft.WindowsReadingList
+Trying to remove Microsoft.MixedReality.Portal
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.ScreenSketch
+Path          : 
+Online        : True
+RestartNeeded : False
+
+Trying to remove Microsoft.XboxGamingOverlay
+Trying to remove Microsoft.YourPhone
+Trying to remove 2FE3CB00.PicsArt-PhotoStudio
+Trying to remove 46928bounde.EclipseManager
+Trying to remove 4DF9E0F8.Netflix
+Trying to remove 613EBCEA.PolarrPhotoEditorAcademicEdition
+Trying to remove 6Wunderkinder.Wunderlist
+Trying to remove 7EE7776C.LinkedInforWindows
+Trying to remove 89006A2E.AutodeskSketchBook
+Trying to remove 9E2F88E3.Twitter
+Trying to remove A278AB0D.DisneyMagicKingdoms
+Trying to remove A278AB0D.MarchofEmpires
+Trying to remove ActiproSoftwareLLC.562882FEEB491
+Trying to remove CAF9E577.Plex
+Trying to remove ClearChannelRadioDigital.iHeartRadio
+Trying to remove D52A8D61.FarmVille2CountryEscape
+Trying to remove D5EA27B7.Duolingo-LearnLanguagesforFree
+Trying to remove DB6EA5DB.CyberLinkMediaSuiteEssentials
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove DolbyLaboratories.DolbyAccess
+Trying to remove Drawboard.DrawboardPDF
+Trying to remove Facebook.Facebook
+Trying to remove Fitbit.FitbitCoach
+Trying to remove Flipboard.Flipboard
+Trying to remove GAMELOFTSA.Asphalt8Airborne
+Trying to remove KeeperSecurityInc.Keeper
+Trying to remove NORDCURRENT.COOKINGFEVER
+Trying to remove PandoraMediaInc.29680B314EFC2
+Trying to remove Playtika.CaesarsSlotsFreeCasino
+Trying to remove ShazamEntertainmentLtd.Shazam
+Trying to remove SlingTVLLC.SlingTV
+Trying to remove SpotifyAB.SpotifyMusic
+Trying to remove ThumbmunkeysLtd.PhototasticCollage
+Trying to remove TuneIn.TuneInRadio
+Trying to remove WinZipComputing.WinZipUniversal
+Trying to remove XINGAG.XING
+Trying to remove flaregamesGmbH.RoyalRevolt2
+Trying to remove king.com.*
+Trying to remove king.com.BubbleWitch3Saga
+Trying to remove king.com.CandyCrushSaga
+Trying to remove king.com.CandyCrushSodaSaga
+Trying to remove Microsoft.Advertising.Xaml
+
+
+

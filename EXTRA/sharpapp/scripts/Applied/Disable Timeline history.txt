@@ -1,0 +1,60 @@
+2021/06/17 15:49:38
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:16
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:23 AM
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:50
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:08
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+
+
+

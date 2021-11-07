@@ -1,0 +1,165 @@
+2021/06/18 02:06:54Kill OneDrive process
+SUCCESS: The process "OneDrive.exe" with PID 3540 has been terminated.
+SUCCESS: The process "explorer.exe" with PID 5168 has been terminated.
+Remove OneDrive
+Removing OneDrive leftovers
+Disable OneDrive via Group Policies
+Remove Onedrive from explorer sidebar
+
+Name           Used (GB)     Free (GB) Provider      Root                                                CurrentLocation
+----           ---------     --------- --------      ----                                                ---------------
+HKCR                                   Registry      HKEY_CLASSES_ROOT                                                  
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2E
+                D1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+Removing run hook for new users
+The operation completed successfully.
+
+The operation completed successfully.
+
+The operation completed successfully.
+
+Removing startmenu entry
+Removing scheduled task
+Restarting explorer
+Waiting for explorer to complete loading
+Removing additional OneDrive leftovers
+
+
+
+2021/06/18 12:37:55Kill OneDrive process
+SUCCESS: The process "OneDrive.exe" with PID 8460 has been terminated.
+SUCCESS: The process "explorer.exe" with PID 4176 has been terminated.
+Remove OneDrive
+Removing OneDrive leftovers
+Disable OneDrive via Group Policies
+Remove Onedrive from explorer sidebar
+
+Name           Used (GB)     Free (GB) Provider      Root                                                CurrentLocation
+----           ---------     --------- --------      ----                                                ---------------
+HKCR                                   Registry      HKEY_CLASSES_ROOT                                                  
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2E
+                D1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+Removing run hook for new users
+The operation completed successfully.
+
+The operation completed successfully.
+
+The operation completed successfully.
+
+Removing startmenu entry
+Removing scheduled task
+Restarting explorer
+Waiting for explorer to complete loading
+Removing additional OneDrive leftovers
+
+
+
+2021/08/08 10:51:02Kill OneDrive process
+SUCCESS: The process "explorer.exe" with PID 4584 has been terminated.
+SUCCESS: The process "explorer.exe" with PID 1232 has been terminated.
+Remove OneDrive
+Removing OneDrive leftovers
+Disable OneDrive via Group Policies
+Remove Onedrive from explorer sidebar
+
+Name           Used (GB)     Free (GB) Provider      Root                                                CurrentLocation
+----           ---------     --------- --------      ----                                                ---------------
+HKCR                                   Registry      HKEY_CLASSES_ROOT                                                  
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+
+Property      : {}
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2E
+                D1FE6}
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CLASSES_ROOT\Wow6432Node\CLSID
+PSChildName   : {018D5C66-4533-4307-9B53-224DE2ED1FE6}
+PSDrive       : HKCR
+PSProvider    : Microsoft.PowerShell.Core\Registry
+PSIsContainer : True
+SubKeyCount   : 0
+View          : Default
+Handle        : Microsoft.Win32.SafeHandles.SafeRegistryHandle
+ValueCount    : 0
+Name          : HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{018D5C66-4533-4307-9B53-224DE2ED1FE6}
+
+Removing run hook for new users
+The operation completed successfully.
+
+The operation completed successfully.
+
+The operation completed successfully.
+
+Removing startmenu entry
+Removing scheduled task
+Restarting explorer
+Waiting for explorer to complete loading
+Removing additional OneDrive leftovers
+
+
+

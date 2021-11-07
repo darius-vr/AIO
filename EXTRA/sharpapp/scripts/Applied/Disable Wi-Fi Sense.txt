@@ -1,0 +1,28 @@
+2021/06/17 15:49:39
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:08
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+
+
+

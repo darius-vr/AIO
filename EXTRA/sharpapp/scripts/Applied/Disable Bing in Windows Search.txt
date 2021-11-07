@@ -1,0 +1,30 @@
+2021/06/17 15:48:36
+2021/06/18 02:01:52
+6/18/2021 2:15:20 AM
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows 
+                    Search
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName       : Windows Search
+PSDrive           : HKLM
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:33:54
+2021/08/08 10:29:15
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows 
+                    Search
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName       : Windows Search
+PSDrive           : HKLM
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+
+
+
+06 Oct 2021 23:15:38

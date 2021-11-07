@@ -1,0 +1,1024 @@
+2021/06/17 15:50:33
+
+AllowTelemetry : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es\DataCollection
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es
+PSChildName    : DataCollection
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+MaxTelemetryAllowed : 1
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies\DataCollection
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies
+PSChildName         : DataCollection
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+reInstalledAppsEverEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+ubscribedContent-338389Enabled : 0
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion\ContentDeliveryManager
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion
+PSChildName                    : ContentDeliveryManager
+PSDrive                        : HKCU
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+CortanaConsent : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName    : Search
+PSDrive        : HKCU
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Sear
+                    ch
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName       : Search
+PSDrive           : HKCU
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskComHandlerAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : The USB CEIP (Customer Experience Improvement Program) task collects Universal Serial Bus related 
+                     statistics and information about your machine and sends it to the Windows Device Connectivity 
+                     engineering group at Microsoft.  The information received is used to help improve the reliability, 
+                     stability, and overall functionality of USB in Windows.  If the user has not consented to 
+                     participate in Windows CEIP, this task does not do anything.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)(A;OICI;SD;;;S-1-5-87-1060603329-121822201-3452
+                     730971-4292368946-61207722)(A;;FRFX;;;LS)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Corporation
+State              : Disabled
+TaskName           : UsbCeip
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : 
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+Version            : 1.0
+PSComputerName     : 
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : If the user has consented to participate in the Windows Customer Experience Improvement Program, 
+                     this job collects and sends usage data to Microsoft.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)
+Settings           : MSFT_TaskSettings3
+Source             : Windows Customer Experience Improvement Program
+State              : Disabled
+TaskName           : Consolidator
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : {MSFT_TaskTimeTrigger}
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+Version            : 1.0
+PSComputerName     : 
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:58
+
+AllowTelemetry : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es\DataCollection
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es
+PSChildName    : DataCollection
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+MaxTelemetryAllowed : 1
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies\DataCollection
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies
+PSChildName         : DataCollection
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+reInstalledAppsEverEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+ubscribedContent-338389Enabled : 0
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion\ContentDeliveryManager
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion
+PSChildName                    : ContentDeliveryManager
+PSDrive                        : HKCU
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+CortanaConsent : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName    : Search
+PSDrive        : HKCU
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Sear
+                    ch
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName       : Search
+PSDrive           : HKCU
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskComHandlerAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : The USB CEIP (Customer Experience Improvement Program) task collects Universal Serial Bus related 
+                     statistics and information about your machine and sends it to the Windows Device Connectivity 
+                     engineering group at Microsoft.  The information received is used to help improve the reliability, 
+                     stability, and overall functionality of USB in Windows.  If the user has not consented to 
+                     participate in Windows CEIP, this task does not do anything.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)(A;OICI;SD;;;S-1-5-87-1060603329-121822201-3452
+                     730971-4292368946-61207722)(A;;FRFX;;;LS)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Corporation
+State              : Disabled
+TaskName           : UsbCeip
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : 
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+Version            : 1.0
+PSComputerName     : 
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : If the user has consented to participate in the Windows Customer Experience Improvement Program, 
+                     this job collects and sends usage data to Microsoft.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)
+Settings           : MSFT_TaskSettings3
+Source             : Windows Customer Experience Improvement Program
+State              : Disabled
+TaskName           : Consolidator
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : {MSFT_TaskTimeTrigger}
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+Version            : 1.0
+PSComputerName     : 
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:35:34
+
+AllowTelemetry : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es\DataCollection
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es
+PSChildName    : DataCollection
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+MaxTelemetryAllowed : 1
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies\DataCollection
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies
+PSChildName         : DataCollection
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+reInstalledAppsEverEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+ubscribedContent-338389Enabled : 0
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion\ContentDeliveryManager
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion
+PSChildName                    : ContentDeliveryManager
+PSDrive                        : HKCU
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+CortanaConsent : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName    : Search
+PSDrive        : HKCU
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Sear
+                    ch
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName       : Search
+PSDrive           : HKCU
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskComHandlerAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : The USB CEIP (Customer Experience Improvement Program) task collects Universal Serial Bus related 
+                     statistics and information about your machine and sends it to the Windows Device Connectivity 
+                     engineering group at Microsoft.  The information received is used to help improve the reliability, 
+                     stability, and overall functionality of USB in Windows.  If the user has not consented to 
+                     participate in Windows CEIP, this task does not do anything.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)(A;OICI;SD;;;S-1-5-87-1060603329-121822201-3452
+                     730971-4292368946-61207722)(A;;FRFX;;;LS)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Corporation
+State              : Disabled
+TaskName           : UsbCeip
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : 
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+Version            : 1.0
+PSComputerName     : 
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : If the user has consented to participate in the Windows Customer Experience Improvement Program, 
+                     this job collects and sends usage data to Microsoft.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)
+Settings           : MSFT_TaskSettings3
+Source             : Windows Customer Experience Improvement Program
+State              : Disabled
+TaskName           : Consolidator
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : {MSFT_TaskTimeTrigger}
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+Version            : 1.0
+PSComputerName     : 
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:33:32
+
+AllowTelemetry : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es\DataCollection
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Polici
+                 es
+PSChildName    : DataCollection
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+MaxTelemetryAllowed : 1
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies\DataCollection
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\P
+                      olicies
+PSChildName         : DataCollection
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+Start        : 4
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\DiagTrack
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services
+PSChildName  : DiagTrack
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+ContentDeliveryAllowed : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+                         \ContentDeliveryManager
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName            : ContentDeliveryManager
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+OemPreInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+PreInstalledAppsEnabled : 0
+PSPath                  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n\ContentDeliveryManager
+PSParentPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersio
+                          n
+PSChildName             : ContentDeliveryManager
+PSDrive                 : HKCU
+PSProvider              : Microsoft.PowerShell.Core\Registry
+
+reInstalledAppsEverEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SilentInstalledAppsEnabled : 0
+PSPath                     : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion\ContentDeliveryManager
+PSParentPath               : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVer
+                             sion
+PSChildName                : ContentDeliveryManager
+PSDrive                    : HKCU
+PSProvider                 : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338387Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-338388Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+ubscribedContent-338389Enabled : 0
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion\ContentDeliveryManager
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curren
+                                 tVersion
+PSChildName                    : ContentDeliveryManager
+PSDrive                        : HKCU
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+SubscribedContent-353698Enabled : 0
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion\ContentDeliveryManager
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\Curre
+                                  ntVersion
+PSChildName                     : ContentDeliveryManager
+PSDrive                         : HKCU
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+SystemPaneSuggestionsEnabled : 0
+PSPath                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion\ContentDeliveryManager
+PSParentPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentV
+                               ersion
+PSChildName                  : ContentDeliveryManager
+PSDrive                      : HKCU
+PSProvider                   : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeatures : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows\CloudContent
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : CloudContent
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+CortanaConsent : 0
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName    : Search
+PSDrive        : HKCU
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+BingSearchEnabled : 0
+PSPath            : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Sear
+                    ch
+PSParentPath      : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName       : Search
+PSDrive           : HKCU
+PSProvider        : Microsoft.PowerShell.Core\Registry
+
+Value        : Deny
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore\location
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Capabili
+               tyAccessManager\ConsentStore
+PSChildName  : location
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+EnableActivityFeed : 0
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+PSChildName        : System
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+AutoConnectAllowedOEM : 0
+PSPath                : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger\config
+PSParentPath          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WcmSvc\wifinetworkmana
+                        ger
+PSChildName           : config
+PSDrive               : HKLM
+PSProvider            : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskComHandlerAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : The USB CEIP (Customer Experience Improvement Program) task collects Universal Serial Bus related 
+                     statistics and information about your machine and sends it to the Windows Device Connectivity 
+                     engineering group at Microsoft.  The information received is used to help improve the reliability, 
+                     stability, and overall functionality of USB in Windows.  If the user has not consented to 
+                     participate in Windows CEIP, this task does not do anything.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)(A;OICI;SD;;;S-1-5-87-1060603329-121822201-3452
+                     730971-4292368946-61207722)(A;;FRFX;;;LS)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Corporation
+State              : Disabled
+TaskName           : UsbCeip
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : 
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+Version            : 1.0
+PSComputerName     : 
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : If the user has consented to participate in the Windows Customer Experience Improvement Program, 
+                     this job collects and sends usage data to Microsoft.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;OICI;FA;;;BA)(A;OICI;FA;;;SY)(A;OICI;GRGX;;;AU)
+Settings           : MSFT_TaskSettings3
+Source             : Windows Customer Experience Improvement Program
+State              : Disabled
+TaskName           : Consolidator
+TaskPath           : \Microsoft\Windows\Customer Experience Improvement Program\
+Triggers           : {MSFT_TaskTimeTrigger}
+URI                : \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+Version            : 1.0
+PSComputerName     : 
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+

@@ -1,0 +1,17 @@
+2021/06/17 15:48:38
+
+{2765E0F4-2918-4A46-B9C9-43CDD8FCBA2B} : BlockCortana|Action=Block|Active=TRUE|Dir=Out|App=C:\windows\systemapps\microso
+                                         ft.windows.cortana_cw5n1h2txyewy\searchui.exe|Name=Search and Cortana applicati
+                                         on|AppPkgId=S-1-15-2-1861897761-1695161497-2927542615-642690995-327840285-26597
+                                         45135-2630312742|
+PSPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet
+                                         \Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules
+PSParentPath                           : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet
+                                         \Services\SharedAccess\Parameters\FirewallPolicy
+PSChildName                            : FirewallRules
+PSDrive                                : HKLM
+PSProvider                             : Microsoft.PowerShell.Core\Registry
+
+
+
+

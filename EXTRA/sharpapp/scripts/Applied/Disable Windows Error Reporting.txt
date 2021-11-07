@@ -1,0 +1,145 @@
+2021/06/17 16:13:37
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+
+
+
+2021/06/18 02:12:51
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+
+
+
+6/18/2021 2:19:02 AM
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+
+
+
+2021/06/18 12:44:21
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+
+
+
+2021/08/08 11:09:45
+
+Disabled     : 1
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Windows Error Reporting
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows
+PSChildName  : Windows Error Reporting
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+Actions            : {MSFT_TaskExecAction}
+Author             : Microsoft Corporation
+Date               : 
+Description        : Windows Error Reporting task to process queued reports.
+Documentation      : 
+Principal          : MSFT_TaskPrincipal2
+SecurityDescriptor : D:(A;;FA;;;BA)(A;;FA;;;SY)(A;;FRFX;;;WD)
+Settings           : MSFT_TaskSettings3
+Source             : Microsoft Windows Error Reporting
+State              : Disabled
+TaskName           : QueueReporting
+TaskPath           : \Microsoft\Windows\Windows Error Reporting\
+Triggers           : {MSFT_TaskBootTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger, MSFT_TaskTrigger...}
+URI                : \Microsoft\Windows\Windows Error Reporting\QueueReporting
+Version            : 1.5
+PSComputerName     : 
+
+
+
+

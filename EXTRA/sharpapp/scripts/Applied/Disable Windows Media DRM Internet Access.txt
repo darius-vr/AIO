@@ -1,0 +1,84 @@
+2021/06/17 15:36:32
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:49:58
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:26
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:45 AM
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:35:02
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:26
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+06 Oct 2021 23:15:55
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+

@@ -1,0 +1,60 @@
+2021/06/18 02:03:53Google Chrome Software Reporter Tool has been successfully blocked.
+
+
+UsageTracking : 0
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer\Preferences
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer
+PSChildName   : Preferences
+PSDrive       : HKCU
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:35:29Google Chrome Software Reporter Tool has been successfully blocked.
+
+
+UsageTracking : 0
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer\Preferences
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer
+PSChildName   : Preferences
+PSDrive       : HKCU
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:32:52Google Chrome Software Reporter Tool has been successfully blocked.
+
+
+UsageTracking : 0
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer\Preferences
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\MediaPlayer
+PSChildName   : Preferences
+PSDrive       : HKCU
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+DisableOnline : 1
+PSPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WMDRM
+PSParentPath  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+PSChildName   : WMDRM
+PSDrive       : HKLM
+PSProvider    : Microsoft.PowerShell.Core\Registry
+
+
+
+

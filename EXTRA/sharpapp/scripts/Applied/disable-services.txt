@@ -1,0 +1,51 @@
+2021/06/18 02:04:03Trying to disable diagnosticshub.standardcollector.service
+Trying to disable DiagTrack
+Trying to disable dmwappushservice
+Trying to disable lfsvc
+Trying to disable MapsBroker
+Trying to disable NetTcpPortSharing
+Trying to disable RemoteAccess
+Trying to disable RemoteRegistry
+Trying to disable SharedAccess
+Trying to disable TrkWks
+Trying to disable WbioSrvc
+Trying to disable WMPNetworkSvc
+Trying to disable XblAuthManager
+Trying to disable XblGameSave
+Trying to disable XboxNetApiSvc
+Trying to disable ndu
+
+2021/06/18 12:35:41Trying to disable diagnosticshub.standardcollector.service
+Trying to disable DiagTrack
+Trying to disable dmwappushservice
+Trying to disable lfsvc
+Trying to disable MapsBroker
+Trying to disable NetTcpPortSharing
+Trying to disable RemoteAccess
+Trying to disable RemoteRegistry
+Trying to disable SharedAccess
+Trying to disable TrkWks
+Trying to disable WbioSrvc
+Trying to disable WMPNetworkSvc
+Trying to disable XblAuthManager
+Trying to disable XblGameSave
+Trying to disable XboxNetApiSvc
+Trying to disable ndu
+
+2021/08/08 10:33:50Trying to disable diagnosticshub.standardcollector.service
+Trying to disable DiagTrack
+Trying to disable dmwappushservice
+Trying to disable lfsvc
+Trying to disable MapsBroker
+Trying to disable NetTcpPortSharing
+Trying to disable RemoteAccess
+Trying to disable RemoteRegistry
+Trying to disable SharedAccess
+Trying to disable TrkWks
+Trying to disable WbioSrvc
+Trying to disable WMPNetworkSvc
+Trying to disable XblAuthManager
+Trying to disable XblGameSave
+Trying to disable XboxNetApiSvc
+Trying to disable ndu
+

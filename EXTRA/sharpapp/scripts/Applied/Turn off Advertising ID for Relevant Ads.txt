@@ -1,0 +1,78 @@
+2021/06/17 15:36:24
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:49:42
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:19
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:28 AM
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:54
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:11
+
+Enabled      : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Advertisi
+               ngInfo
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion
+PSChildName  : AdvertisingInfo
+PSDrive      : HKCU
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+
+
+

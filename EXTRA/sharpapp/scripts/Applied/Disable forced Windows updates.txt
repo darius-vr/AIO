@@ -1,0 +1,41 @@
+6/18/2021 2:18:44 AM
+
+NoAutoUpdate : 0
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate\
+               AU
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
+PSChildName  : AU
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+AUOptions    : 2
+PSPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate\
+               AU
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
+PSChildName  : AU
+PSDrive      : HKLM
+PSProvider   : Microsoft.PowerShell.Core\Registry
+
+ScheduledInstallDay : 0
+PSPath              : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows
+                      Update\AU
+PSParentPath        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Windows
+                      Update
+PSChildName         : AU
+PSDrive             : HKLM
+PSProvider          : Microsoft.PowerShell.Core\Registry
+
+ScheduledInstallTime : 3
+PSPath               : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Window
+                       sUpdate\AU
+PSParentPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Window
+                       sUpdate
+PSChildName          : AU
+PSDrive              : HKLM
+PSProvider           : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:44:11
+2021/08/08 11:09:40

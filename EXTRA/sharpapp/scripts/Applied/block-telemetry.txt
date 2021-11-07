@@ -1,0 +1,142 @@
+2021/06/17 15:50:49Disabling telemetry via Group Policies
+Adding telemetry domains to hosts file
+Adding telemetry ips to firewall
+
+
+Name                          : {7415044c-4b72-4657-8410-a2ca540d8c7c}
+DisplayName                   : Block Telemetry IPs
+Description                   : 
+DisplayGroup                  : 
+Group                         : 
+Enabled                       : True
+Profile                       : Any
+Platform                      : {}
+Direction                     : Outbound
+Action                        : Block
+EdgeTraversalPolicy           : Block
+LooseSourceMapping            : False
+LocalOnlyMapping              : False
+Owner                         : 
+PrimaryStatus                 : OK
+Status                        : The rule was parsed successfully from the store. (65536)
+EnforcementStatus             : NotApplicable
+PolicyStoreSource             : PersistentStore
+PolicyStoreSourceType         : Local
+RemoteDynamicKeywordAddresses : {}
+
+
+
+
+2021/06/18 02:04:03Disabling telemetry via Group Policies
+Adding telemetry domains to hosts file
+Adding telemetry ips to firewall
+
+
+Name                  : {7c733541-a92a-47ce-b54f-30aa51901b2d}
+DisplayName           : Block Telemetry IPs
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+2021/06/18 12:35:40Disabling telemetry via Group Policies
+Adding telemetry domains to hosts file
+Adding telemetry ips to firewall
+
+
+Name                  : {baf2d170-d95c-4c72-81b8-23c320a820fc}
+DisplayName           : Block Telemetry IPs
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+2021/08/08 10:33:46Disabling telemetry via Group Policies
+Adding telemetry domains to hosts file
+Adding telemetry ips to firewall
+
+
+Name                  : {ee0f3cf3-c16b-44a8-a65b-bdf78cfe23df}
+DisplayName           : Block Telemetry IPs
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+06 Oct 2021 23:16:09Disabling telemetry via Group Policies
+Adding telemetry domains to hosts file
+Adding telemetry ips to firewall
+
+
+Name                          : {379981c7-6983-4eea-aea3-74380f96bf4b}
+DisplayName                   : Block Telemetry IPs
+Description                   : 
+DisplayGroup                  : 
+Group                         : 
+Enabled                       : True
+Profile                       : Any
+Platform                      : {}
+Direction                     : Outbound
+Action                        : Block
+EdgeTraversalPolicy           : Block
+LooseSourceMapping            : False
+LocalOnlyMapping              : False
+Owner                         : 
+PrimaryStatus                 : OK
+Status                        : The rule was parsed successfully from the store. (65536)
+EnforcementStatus             : NotApplicable
+PolicyStoreSource             : PersistentStore
+PolicyStoreSourceType         : Local
+RemoteDynamicKeywordAddresses : {}
+
+
+
+

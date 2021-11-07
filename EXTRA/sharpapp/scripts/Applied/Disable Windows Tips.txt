@@ -1,0 +1,188 @@
+2021/06/17 15:36:23
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/17 15:49:40
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:18
+
+DisableSoftLanding : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\CloudCon
+                     tent
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows
+PSChildName        : CloudContent
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsSpotlightFeatures : 1
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows\CloudContent
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows
+PSChildName                     : CloudContent
+PSDrive                         : HKLM
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeature : 1
+PSPath                        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws\CloudContent
+PSParentPath                  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws
+PSChildName                   : CloudContent
+PSDrive                       : HKLM
+PSProvider                    : Microsoft.PowerShell.Core\Registry
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+6/18/2021 2:17:25 AM
+
+DisableSoftLanding : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\CloudCon
+                     tent
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows
+PSChildName        : CloudContent
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsSpotlightFeatures : 1
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows\CloudContent
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows
+PSChildName                     : CloudContent
+PSDrive                         : HKLM
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeature : 1
+PSPath                        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws\CloudContent
+PSParentPath                  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws
+PSChildName                   : CloudContent
+PSDrive                       : HKLM
+PSProvider                    : Microsoft.PowerShell.Core\Registry
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:52
+
+DisableSoftLanding : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\CloudCon
+                     tent
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows
+PSChildName        : CloudContent
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsSpotlightFeatures : 1
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows\CloudContent
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows
+PSChildName                     : CloudContent
+PSDrive                         : HKLM
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeature : 1
+PSPath                        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws\CloudContent
+PSParentPath                  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws
+PSChildName                   : CloudContent
+PSDrive                       : HKLM
+PSProvider                    : Microsoft.PowerShell.Core\Registry
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:09
+
+DisableSoftLanding : 1
+PSPath             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\CloudCon
+                     tent
+PSParentPath       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows
+PSChildName        : CloudContent
+PSDrive            : HKLM
+PSProvider         : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsSpotlightFeatures : 1
+PSPath                          : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows\CloudContent
+PSParentPath                    : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Win
+                                  dows
+PSChildName                     : CloudContent
+PSDrive                         : HKLM
+PSProvider                      : Microsoft.PowerShell.Core\Registry
+
+DisableWindowsConsumerFeature : 1
+PSPath                        : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws\CloudContent
+PSParentPath                  : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windo
+                                ws
+PSChildName                   : CloudContent
+PSDrive                       : HKLM
+PSProvider                    : Microsoft.PowerShell.Core\Registry
+
+DoNotShowFeedbackNotifications : 1
+PSPath                         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows\DataCollection
+PSParentPath                   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Wind
+                                 ows
+PSChildName                    : DataCollection
+PSDrive                        : HKLM
+PSProvider                     : Microsoft.PowerShell.Core\Registry
+
+
+
+

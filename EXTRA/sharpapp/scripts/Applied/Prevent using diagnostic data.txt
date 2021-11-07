@@ -1,0 +1,56 @@
+2021/06/17 15:49:41
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 02:03:19
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/06/18 12:34:53
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:31:10
+
+TailoredExperiencesWithDiagnosticDataEnabled : 0
+PSPath                                       : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion\Privacy
+PSParentPath                                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\
+                                               Windows\CurrentVersion
+PSChildName                                  : Privacy
+PSDrive                                      : HKCU
+PSProvider                                   : Microsoft.PowerShell.Core\Registry
+
+
+
+

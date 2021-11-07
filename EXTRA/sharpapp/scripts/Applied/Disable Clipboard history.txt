@@ -1,0 +1,24 @@
+2021/06/18 12:34:41
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+
+
+
+2021/08/08 10:29:53
+
+EnableClipboardHistory : 0
+PSPath                 : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft\Clipboard
+PSParentPath           : Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER\Software\Microsoft
+PSChildName            : Clipboard
+PSDrive                : HKCU
+PSProvider             : Microsoft.PowerShell.Core\Registry
+
+
+
+

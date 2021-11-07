@@ -1,0 +1,132 @@
+2021/06/17 16:03:56Adding telemetry IPs to firewall
+
+
+Name                          : {d87eaa41-7cbe-45c4-9448-142d2b4e7925}
+DisplayName                   : SharpApp Microsoft Telemetry Block
+Description                   : 
+DisplayGroup                  : 
+Group                         : 
+Enabled                       : True
+Profile                       : Any
+Platform                      : {}
+Direction                     : Outbound
+Action                        : Block
+EdgeTraversalPolicy           : Block
+LooseSourceMapping            : False
+LocalOnlyMapping              : False
+Owner                         : 
+PrimaryStatus                 : OK
+Status                        : The rule was parsed successfully from the store. (65536)
+EnforcementStatus             : NotApplicable
+PolicyStoreSource             : PersistentStore
+PolicyStoreSourceType         : Local
+RemoteDynamicKeywordAddresses : {}
+
+
+
+
+2021/06/18 02:07:06Adding telemetry IPs to firewall
+
+
+Name                  : {72c1d611-b64d-4605-bb1a-217ce94c9099}
+DisplayName           : SharpApp Microsoft Telemetry Block
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+2021/06/18 12:38:28Adding telemetry IPs to firewall
+
+
+Name                  : {309fba24-899b-4273-a225-f357a100466d}
+DisplayName           : SharpApp Microsoft Telemetry Block
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+2021/08/08 10:51:07Adding telemetry IPs to firewall
+
+
+Name                  : {f8b2d34b-b405-4966-8af2-9151baf21645}
+DisplayName           : SharpApp Microsoft Telemetry Block
+Description           : 
+DisplayGroup          : 
+Group                 : 
+Enabled               : True
+Profile               : Any
+Platform              : {}
+Direction             : Outbound
+Action                : Block
+EdgeTraversalPolicy   : Block
+LooseSourceMapping    : False
+LocalOnlyMapping      : False
+Owner                 : 
+PrimaryStatus         : OK
+Status                : The rule was parsed successfully from the store. (65536)
+EnforcementStatus     : NotApplicable
+PolicyStoreSource     : PersistentStore
+PolicyStoreSourceType : Local
+
+
+
+
+06 Oct 2021 23:16:11Adding telemetry IPs to firewall
+
+
+Name                          : {673041e5-cdcc-45fd-8286-f2d83ec4e796}
+DisplayName                   : SharpApp Microsoft Telemetry Block
+Description                   : 
+DisplayGroup                  : 
+Group                         : 
+Enabled                       : True
+Profile                       : Any
+Platform                      : {}
+Direction                     : Outbound
+Action                        : Block
+EdgeTraversalPolicy           : Block
+LooseSourceMapping            : False
+LocalOnlyMapping              : False
+Owner                         : 
+PrimaryStatus                 : OK
+Status                        : The rule was parsed successfully from the store. (65536)
+EnforcementStatus             : NotApplicable
+PolicyStoreSource             : PersistentStore
+PolicyStoreSourceType         : Local
+RemoteDynamicKeywordAddresses : {}
+
+
+
+
