@@ -3,7 +3,8 @@
 Special thanks to:
 
 Builtbybel https://github.com/builtbybel
-and https://github.com/massgravel/Microsoft-Activation-Scripts
+and
+massgravel https://github.com/massgravel/Microsoft-Activation-Scripts
 
 for the code, files and basis to work from.
 
