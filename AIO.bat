@@ -370,7 +370,7 @@ Add-MpPreference -ExclusionPath C:\ProgramData\Online_KMS_Activation\Activate.cm
 @echo off
 CLS
 ECHO NOW THE DEFENDER DISABLE APPLICATION WILL LOAD CLOSE IF NOT NEEDED
-start "%~dp0\SOFTWARE\ACTIVATION_AND_DEFENDER_TOOLS\Defender_Tools.exe"
+start %~dp0\SOFTWARE\ACTIVATION_AND_DEFENDER_TOOLS\Defender_Tools.exe
 popd
 timeout 2 >nul
 endlocal
@@ -381,7 +381,7 @@ pause & cls & goto COMPUTER_CONFIGURATION
 echo
 cls
 title  Microsoft Activation Scripts AIO 1.4
-"%~dp0\SOFTWARE\ACTIVATION_AND_DEFENDER_TOOLS\MAS.CMD
+%~dp0\SOFTWARE\ACTIVATION_AND_DEFENDER_TOOLS\MAS.CMD
 timeout 5 >nul
 pause & cls & goto COMPUTER_CONFIGURATION
 ::-------------------------------------------------------------------------------------------------------
@@ -399,7 +399,7 @@ Title UPDATE APPLICATIONS
 ECHO:
 ECHO THIS OPTION WILL START PATCH MY PC.
 timeout 2 >nul
-START "%~dp0\SOFTWARE\UPDATE_SOFTWARE\PatchMyPC.exe /auto switch
+START %~dp0\SOFTWARE\UPDATE_SOFTWARE\PatchMyPC.exe /auto switch
 timeout 2 >nul
 pause & cls & goto COMPUTER_CONFIGURATION
 ::-------------------------------------------------------------------------------------------------------
@@ -408,7 +408,7 @@ CLS
 TITLE PC Cleanup Utility
 ECHO THIS OPTION WILL GIVE OPTIONS TO CLEAN UP TEMPORARY ITEMS FROM WINDOWS
 timeout 2 >nul
-"%~dp0\SOFTWARE\CLEANUP\PC-Cleanup-Utility.bat
+%~dp0\SOFTWARE\CLEANUP\PC-Cleanup-Utility.bat
 
 pause & cls & goto COMPUTER_CONFIGURATION
 ::-------------------------------------------------------------------------------------------------------
